@@ -6,4 +6,4 @@ and make it easier the to abstract other tools and new ones that may arise.
 Requirements:
 - Java 8 (or higher)
 - Maven 3.0.5
-
+- Hadoop 3.1.0 (or higher)

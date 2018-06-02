@@ -17,17 +17,17 @@
 <!-- Put site-specific property overrides in this file. -->
 
 <configuration>
-<!--    <property>
+    <property>
         <name>dfs.datanode.data.dir</name>
-	<value>/usr/local/hadoop/hdfs/data</value>
+	<value>file:/usr/local/hadoop/hdfs/data</value>
         <description>DataNode directory for storing data chunks.</description>
     </property>
 
     <property>
         <name>dfs.namenode.name.dir</name>
-        <value>/usr/local/hadoop/hdfs/name</value>
+        <value>file:/usr/local/hadoop/hdfs/name</value>
         <description>NameNode directory for namespace and transaction logs storage.</description>
-    </property>-->
+    </property>
 
     <property>
         <name>dfs.replication</name>

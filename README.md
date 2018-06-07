@@ -6,4 +6,7 @@ and make it easier the to abstract other tools and new ones that may arise.
 Requirements:
 - Java 8 (or higher)
 - Maven 3.0.5
-- Hadoop 3.1.0 (or higher)
+- Hadoop 2.8.x 
+- Apex Core 3.7
+- Apex Malhar 3.8
+- Apache Flink 1.5

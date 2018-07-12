@@ -7,5 +7,5 @@ if [ $# -eq 0 ]
     echo "Usage: ./delete_topic.sh topic_name"
 else
 	topic=$1
-	bin/kafka-topics.sh --delete --zookeeper localhost:2181 --topic test
+	bin/kafka-topics.sh --delete --zookeeper localhost:2181 --topic $topic
 fi

@@ -10,3 +10,6 @@ Requirements:
 - Apex Core 3.7
 - Apex Malhar 3.8
 - Apache Flink 1.5
+
+This project was moved to GitLab as part of [InterSCity](http://interscity.org) group, together with other related projects:
+https://gitlab.com/interscity/abstraction-layer
